@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853473479331",
+    "project_id": "mobilcihazlar-2a280",
+    "storage_bucket": "mobilcihazlar-2a280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853473479331:android:62848e74ee56f5a5760d16",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNFdY-7m2tuLrnAfIhqZlWH2vpK21kBBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853473479331:android:7632dd3fbe9c0eda760d16",
+        "android_client_info": {
+          "package_name": "com.example.vizeflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNFdY-7m2tuLrnAfIhqZlWH2vpK21kBBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
